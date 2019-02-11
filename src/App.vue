@@ -32,5 +32,5 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
   color: white
-  width: 300px
+  min-width: 300px
 </style>

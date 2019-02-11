@@ -1,90 +1,80 @@
 [{
-  "text": "B1",
+  "text": "Dogs",
   "nodes": [{
-    "text": "FEOL",
+    "text": "Germany",
     "nodes": [{
-      "text": "SPUTTER",
+      "text": "American Eskimo Dog",
       "nodes": [{
-        "text": "003",
-        "location": "B1-SPU-03"
+        "text": "Fluffy",
+        "value": "d-ger-aed-fluffy"
       }]
     }, {
-      "text": "COATING"
+      "text": "Bavarian Mountain Hound"
     }, {
-      "text": "EXPOSING",
+      "text": "Boxer",
       "nodes": [{
-        "text": "001",
-        "location": "B1-EXP-01"
+        "text": "Rip",
+        "value": "d-ger-boxer-rip"
       }, {
-        "text": "002",
-        "location": "B1-EXP-02"
+        "text": "Mackenzie",
+        "value": "d-ger-boxer-machenzie"
       }]
     }, {
-      "text": "DEVELOP"
+      "text": "Bullenbeisser"
     }, {
-      "text": "PLATING"
+      "text": "Dachshund"
     }, {
-      "text": "BOND",
+      "text": "Deutsche Bracke",
       "nodes": [{
-        "text": "005",
-        "location": "B1-BON-05"
+        "text": "Mini",
+        "value": "d-ger-db-mini"
       }]
     }]
   }, {
-    "text": "BEOL",
+    "text": "France",
     "nodes": [{
-      "text": "GRINDING"
+      "text": "Ariegeois"
     }, {
-      "text": "BALLDROP"
+      "text": "Artois Hound"
     }, {
-      "text": "PROBING"
+      "text": "Barbet"
     }, {
-      "text": "BACKCOATING"
+      "text": "Beagle-Harrier"
     }, {
-      "text": "MARKING"
+      "text": "Beauceron"
     }, {
-      "text": "SORTING"
+      "text": "Berger Picard"
     }, {
-      "text": "TUG"
+      "text": "Bloodhound"
     }]
   }]
 }, {
-  "text": "B2",
+  "text": "Cats",
   "nodes": [{
-    "text": "FEOL",
+    "text": "Russia",
     "nodes": [{
-      "text": "SPUTTER"
+      "text": "Donskoy"
     }, {
-      "text": "COATING"
+      "text": "Kurilian Bobtail"
     }, {
-      "text": "EXPOSING"
+      "text": "Mekong Bobtail"
     }, {
-      "text": "DEVELOP"
-    }, {
-      "text": "PLATING"
-    }, {
-      "text": "BOND"
+      "text": "Siberian"
     }]
   }, {
-    "text": "BEOL",
+    "text": "Thailand",
     "nodes": [{
-      "text": "GRINDING"
+      "text": "Khao Manee"
     }, {
-      "text": "BALLDROP"
+      "text": "Korat"
     }, {
-      "text": "PROBING"
+      "text": "Korn Ja"
     }, {
-      "text": "BACKCOATING",
+      "text": "Suphalak",
       "nodes": [{
-        "text": "006",
-        "location": "B2-BAC-06"
+        "text": "Moon",
+        "value": "c-tha-suphalak-moon"
       }]
-    }, {
-      "text": "MARKING"
-    }, {
-      "text": "SORTING"
-    }, {
-      "text": "TUG"
     }]
   }]
 }]
