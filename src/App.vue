@@ -2,6 +2,8 @@
   #app
     h1 Tree View
     tree-view(:tree="tree")
+    h5 MIT Licensed | Copyright &copy; 2019 Liang-Shih Lin
+      a(href="https://github.com/ll931217/vue-treeview", target="_blank").source Source
 </template>
 
 <script>
@@ -26,11 +28,27 @@ body
   height: 100vh
   width: 100vw
   overflow: hidden
+  overflow-y: scroll
 
 #app
   font-family: 'Avenir', Helvetica, Arial, sans-serif
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
   color: white
-  min-width: 300px
+  min-width: 400px
+
+  h1
+    text-align: center
+
+  h5
+    display: flex
+    justify-content: space-around
+    margin-right: 1em
+
+    a.source
+      &:link, &:active, &:visited
+        color: orange
+        text-decoration: none
+      &:hover
+        text-decoration: underline
 </style>
